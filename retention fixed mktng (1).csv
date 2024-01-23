@@ -1,0 +1,526 @@
+start_date,campaign,country,m0_retent,m1_retent,m2_retent
+2020-11-01,(data deleted),Canada,0,0,0
+2020-11-01,(data deleted),Turkey,0,0,0
+2020-11-01,(data deleted),United Kingdom,0,0,0
+2020-11-01,(data deleted),United States,0,0,0
+2020-11-01,(direct),Canada,0,0,0
+2020-11-01,(direct),France,0,0,0
+2020-11-01,(direct),Germany,0,0,0
+2020-11-01,(direct),India,0,0,0
+2020-11-01,(direct),United Kingdom,0,0,0
+2020-11-01,(direct),United States,0,0,0
+2020-11-01,(null),(not set),0.167,0,0
+2020-11-01,(null),Algeria,0,0,0
+2020-11-01,(null),Argentina,0,0,0
+2020-11-01,(null),Australia,0,0,0
+2020-11-01,(null),Austria,0,0,0
+2020-11-01,(null),Bahrain,0,0,0
+2020-11-01,(null),Bangladesh,0,0,0
+2020-11-01,(null),Belgium,0,0,0
+2020-11-01,(null),Brazil,0,0,0
+2020-11-01,(null),Cambodia,0,0,0
+2020-11-01,(null),Canada,0.034,0,0
+2020-11-01,(null),Chile,0,0,0
+2020-11-01,(null),China,0.05,0,0
+2020-11-01,(null),Colombia,0,0,0
+2020-11-01,(null),Costa Rica,0,0,0
+2020-11-01,(null),Czechia,0,0,0
+2020-11-01,(null),Denmark,0.25,0,0
+2020-11-01,(null),Dominican Republic,0,0,0
+2020-11-01,(null),Ecuador,0,0,0
+2020-11-01,(null),Egypt,0,0,0
+2020-11-01,(null),Finland,0,0,0
+2020-11-01,(null),France,0.088,0,0
+2020-11-01,(null),Georgia,0.5,0,0
+2020-11-01,(null),Germany,0.05,0,0
+2020-11-01,(null),Greece,0.25,0,0
+2020-11-01,(null),Guatemala,0,0,0
+2020-11-01,(null),Hong Kong,0.111,0,0
+2020-11-01,(null),Hungary,0,0,0
+2020-11-01,(null),India,0.067,0,0
+2020-11-01,(null),Indonesia,0,0,0
+2020-11-01,(null),Ireland,0,0,0
+2020-11-01,(null),Israel,0.125,0,0
+2020-11-01,(null),Italy,0,0,0
+2020-11-01,(null),Japan,0.063,0,0
+2020-11-01,(null),Kazakhstan,0,0,0
+2020-11-01,(null),Kenya,0,0,0
+2020-11-01,(null),Kuwait,0,0,0
+2020-11-01,(null),Latvia,0,0,0
+2020-11-01,(null),Lebanon,0,0,0
+2020-11-01,(null),Macao,0,0,0
+2020-11-01,(null),Malaysia,0.077,0,0
+2020-11-01,(null),Malta,1,0,0
+2020-11-01,(null),Mexico,0.154,0,0
+2020-11-01,(null),Mongolia,0,0,0
+2020-11-01,(null),Morocco,0,0,0
+2020-11-01,(null),Netherlands,0.059,0,0
+2020-11-01,(null),New Zealand,0.5,0,0
+2020-11-01,(null),Nigeria,0,0,0
+2020-11-01,(null),North Macedonia,0,0,0
+2020-11-01,(null),Pakistan,0,0,0
+2020-11-01,(null),Palestine,0,0,0
+2020-11-01,(null),Peru,0.273,0,0
+2020-11-01,(null),Philippines,0,0,0
+2020-11-01,(null),Poland,0.067,0,0
+2020-11-01,(null),Portugal,0,0,0
+2020-11-01,(null),Puerto Rico,0,0,0
+2020-11-01,(null),Romania,0,0,0
+2020-11-01,(null),Russia,0.083,0,0
+2020-11-01,(null),Saudi Arabia,0,0,0
+2020-11-01,(null),Singapore,0,0,0
+2020-11-01,(null),Slovakia,0,0,0
+2020-11-01,(null),Slovenia,0.5,0,0
+2020-11-01,(null),South Korea,0,0,0
+2020-11-01,(null),Spain,0.13,0,0
+2020-11-01,(null),Sri Lanka,0.25,0,0
+2020-11-01,(null),Sweden,0,0,0
+2020-11-01,(null),Switzerland,0,0,0
+2020-11-01,(null),Taiwan,0,0,0
+2020-11-01,(null),Thailand,0.1,0,0
+2020-11-01,(null),Tunisia,0,0,0
+2020-11-01,(null),Turkey,0,0,0
+2020-11-01,(null),Ukraine,0,0,0
+2020-11-01,(null),United Arab Emirates,0,0,0
+2020-11-01,(null),United Kingdom,0.027,0,0
+2020-11-01,(null),United States,0.036,0,0
+2020-11-01,(null),Uruguay,0,0,0
+2020-11-01,(null),Vietnam,0.091,0,0
+2020-11-01,(organic),Brazil,0,0,0
+2020-11-01,(organic),Bulgaria,0,0,0
+2020-11-01,(organic),Canada,0,0,0
+2020-11-01,(organic),China,0,0,0
+2020-11-01,(organic),France,0,0,0
+2020-11-01,(organic),India,0,0,0
+2020-11-01,(organic),Ireland,0,0,0
+2020-11-01,(organic),Japan,0,0,0
+2020-11-01,(organic),Kenya,0,0,0
+2020-11-01,(organic),Russia,0,0,0
+2020-11-01,(organic),Singapore,0,0,0
+2020-11-01,(organic),South Korea,0,0,0
+2020-11-01,(organic),Spain,0,0,0
+2020-11-01,(organic),United States,0,0,0
+2020-11-01,(referral),Austria,0,0,0
+2020-11-01,(referral),Brazil,0,0,0
+2020-11-01,(referral),Bulgaria,0,0,0
+2020-11-01,(referral),Canada,0,0,0
+2020-11-01,(referral),Colombia,0,0,0
+2020-11-01,(referral),Denmark,0,0,0
+2020-11-01,(referral),Dominican Republic,0,0,0
+2020-11-01,(referral),Germany,0,0,0
+2020-11-01,(referral),Greece,0,0,0
+2020-11-01,(referral),India,0,0,0
+2020-11-01,(referral),Ireland,0,0,0
+2020-11-01,(referral),Netherlands,0,0,0
+2020-11-01,(referral),Pakistan,0,0,0
+2020-11-01,(referral),Philippines,0,0,0
+2020-11-01,(referral),Singapore,0,0,0
+2020-11-01,(referral),Spain,0,0,0
+2020-11-01,(referral),United Kingdom,0,0,0
+2020-11-01,(referral),United States,0,0,0
+2020-11-01,<Other>,Australia,0,0,0
+2020-11-01,<Other>,Canada,0,0,0
+2020-11-01,<Other>,China,0,0,0
+2020-11-01,<Other>,Japan,0,0,0
+2020-11-01,<Other>,Mexico,0,0,0
+2020-11-01,<Other>,Spain,0,0,0
+2020-11-01,<Other>,United States,0,0,0
+2020-12-01,(data deleted),Bolivia,0,0,
+2020-12-01,(data deleted),Brazil,0,0,
+2020-12-01,(data deleted),Canada,0,0,
+2020-12-01,(data deleted),Chile,0,0,
+2020-12-01,(data deleted),China,0,0,
+2020-12-01,(data deleted),Colombia,0,0,
+2020-12-01,(data deleted),Egypt,0,0,
+2020-12-01,(data deleted),Greece,0,0,
+2020-12-01,(data deleted),India,0,0,
+2020-12-01,(data deleted),Indonesia,0,0,
+2020-12-01,(data deleted),Israel,0,0,
+2020-12-01,(data deleted),Italy,0,0,
+2020-12-01,(data deleted),Mongolia,0,0,
+2020-12-01,(data deleted),Poland,0,0,
+2020-12-01,(data deleted),Portugal,0,0,
+2020-12-01,(data deleted),Spain,0,0,
+2020-12-01,(data deleted),Sweden,0,0,
+2020-12-01,(data deleted),Taiwan,0,0,
+2020-12-01,(data deleted),United Kingdom,0,0,
+2020-12-01,(data deleted),United States,0,0,
+2020-12-01,(direct),(not set),0,0,
+2020-12-01,(direct),Albania,0,0,
+2020-12-01,(direct),Algeria,0,0,
+2020-12-01,(direct),Brazil,0,0,
+2020-12-01,(direct),Canada,0,0,
+2020-12-01,(direct),Chile,0,0,
+2020-12-01,(direct),China,0,0,
+2020-12-01,(direct),France,0,0,
+2020-12-01,(direct),Germany,0,0,
+2020-12-01,(direct),India,0,0,
+2020-12-01,(direct),Ireland,0,0,
+2020-12-01,(direct),Italy,0,0,
+2020-12-01,(direct),Japan,0,0,
+2020-12-01,(direct),Morocco,0,0,
+2020-12-01,(direct),Netherlands,0,0,
+2020-12-01,(direct),Philippines,0,0,
+2020-12-01,(direct),Singapore,0,0,
+2020-12-01,(direct),South Korea,0,0,
+2020-12-01,(direct),Spain,0,0,
+2020-12-01,(direct),Sweden,0,0,
+2020-12-01,(direct),Switzerland,0,0,
+2020-12-01,(direct),Taiwan,0,0,
+2020-12-01,(direct),Thailand,0,0,
+2020-12-01,(direct),Turkey,0,0,
+2020-12-01,(direct),Ukraine,0,0,
+2020-12-01,(direct),United Arab Emirates,0,0,
+2020-12-01,(direct),United Kingdom,0,0,
+2020-12-01,(direct),United States,0,0,
+2020-12-01,(null),(not set),0,0,
+2020-12-01,(null),Argentina,0,0,
+2020-12-01,(null),Australia,0,0,
+2020-12-01,(null),Austria,0,0,
+2020-12-01,(null),Bangladesh,0,0,
+2020-12-01,(null),Belgium,0,0,
+2020-12-01,(null),Bosnia & Herzegovina,0,0,
+2020-12-01,(null),Brazil,0,0,
+2020-12-01,(null),Bulgaria,0,0,
+2020-12-01,(null),Canada,0,0,
+2020-12-01,(null),China,0,0,
+2020-12-01,(null),Colombia,0,0,
+2020-12-01,(null),Cyprus,0,0,
+2020-12-01,(null),Czechia,0,0,
+2020-12-01,(null),Denmark,0,0,
+2020-12-01,(null),Dominican Republic,0,0,
+2020-12-01,(null),Egypt,0,0,
+2020-12-01,(null),El Salvador,0,0,
+2020-12-01,(null),Finland,0,0,
+2020-12-01,(null),France,0,0,
+2020-12-01,(null),Germany,0,0,
+2020-12-01,(null),Greece,0,0,
+2020-12-01,(null),Honduras,0,0,
+2020-12-01,(null),Hong Kong,0,0,
+2020-12-01,(null),Hungary,0,0,
+2020-12-01,(null),India,0,0,
+2020-12-01,(null),Indonesia,0,0,
+2020-12-01,(null),Iraq,0,0,
+2020-12-01,(null),Ireland,0,0,
+2020-12-01,(null),Israel,0,0,
+2020-12-01,(null),Italy,0,0,
+2020-12-01,(null),Japan,0,0,
+2020-12-01,(null),Kenya,0,0,
+2020-12-01,(null),Kuwait,0,0,
+2020-12-01,(null),Latvia,0,0,
+2020-12-01,(null),Lithuania,0,0,
+2020-12-01,(null),Malaysia,0,0,
+2020-12-01,(null),Mexico,0,0,
+2020-12-01,(null),Morocco,0,0,
+2020-12-01,(null),Netherlands,0,0,
+2020-12-01,(null),Nigeria,0,0,
+2020-12-01,(null),Norway,0,0,
+2020-12-01,(null),Pakistan,0,0,
+2020-12-01,(null),Peru,0,0,
+2020-12-01,(null),Philippines,0,0,
+2020-12-01,(null),Poland,0,0,
+2020-12-01,(null),Portugal,0,0,
+2020-12-01,(null),Puerto Rico,0,0,
+2020-12-01,(null),Qatar,0,0,
+2020-12-01,(null),Russia,0,0,
+2020-12-01,(null),Saudi Arabia,0,0,
+2020-12-01,(null),Serbia,0,0,
+2020-12-01,(null),Singapore,0,0,
+2020-12-01,(null),Slovakia,0,0,
+2020-12-01,(null),Slovenia,0,0,
+2020-12-01,(null),South Africa,0,0,
+2020-12-01,(null),South Korea,0,0,
+2020-12-01,(null),Spain,0,0,
+2020-12-01,(null),Sri Lanka,0,0,
+2020-12-01,(null),Sweden,0,0,
+2020-12-01,(null),Switzerland,0,0,
+2020-12-01,(null),Taiwan,0,0,
+2020-12-01,(null),Thailand,0,0,
+2020-12-01,(null),Tunisia,0,0,
+2020-12-01,(null),Turkey,0,0,
+2020-12-01,(null),Ukraine,0,0,
+2020-12-01,(null),United Arab Emirates,0,0,
+2020-12-01,(null),United Kingdom,0,0,
+2020-12-01,(null),United States,0,0,
+2020-12-01,(null),Uruguay,0,0,
+2020-12-01,(null),Vietnam,0,0,
+2020-12-01,(organic),(not set),0,0,
+2020-12-01,(organic),Australia,0,0,
+2020-12-01,(organic),Belgium,0,0,
+2020-12-01,(organic),Brazil,0,0,
+2020-12-01,(organic),Canada,0,0,
+2020-12-01,(organic),Chile,0,0,
+2020-12-01,(organic),China,0,0,
+2020-12-01,(organic),Czechia,0,0,
+2020-12-01,(organic),Denmark,0,0,
+2020-12-01,(organic),Dominican Republic,0,0,
+2020-12-01,(organic),Egypt,0,0,
+2020-12-01,(organic),France,0,0,
+2020-12-01,(organic),Germany,0,0,
+2020-12-01,(organic),Greece,0,0,
+2020-12-01,(organic),India,0,0,
+2020-12-01,(organic),Indonesia,0,0,
+2020-12-01,(organic),Ireland,0,0,
+2020-12-01,(organic),Italy,0,0,
+2020-12-01,(organic),Japan,0,0,
+2020-12-01,(organic),Malaysia,0,0,
+2020-12-01,(organic),Philippines,0,0,
+2020-12-01,(organic),Russia,0,0,
+2020-12-01,(organic),Singapore,0,0,
+2020-12-01,(organic),South Korea,0,0,
+2020-12-01,(organic),Spain,0,0,
+2020-12-01,(organic),Sweden,0,0,
+2020-12-01,(organic),Taiwan,0,0,
+2020-12-01,(organic),Thailand,0,0,
+2020-12-01,(organic),Turkey,0,0,
+2020-12-01,(organic),United Kingdom,0,0,
+2020-12-01,(organic),United States,0.015,0,
+2020-12-01,(referral),(not set),0,0,
+2020-12-01,(referral),Argentina,0,0,
+2020-12-01,(referral),Australia,0,0,
+2020-12-01,(referral),Austria,0,0,
+2020-12-01,(referral),Belarus,0,0,
+2020-12-01,(referral),Brazil,0,0,
+2020-12-01,(referral),Bulgaria,0,0,
+2020-12-01,(referral),Canada,0.026,0,
+2020-12-01,(referral),China,0,0,
+2020-12-01,(referral),Colombia,0,0,
+2020-12-01,(referral),Croatia,0,0,
+2020-12-01,(referral),Czechia,0,0,
+2020-12-01,(referral),Denmark,0,0,
+2020-12-01,(referral),Egypt,0,0,
+2020-12-01,(referral),France,0.143,0,
+2020-12-01,(referral),Georgia,0,0,
+2020-12-01,(referral),Germany,0,0,
+2020-12-01,(referral),Greece,0,0,
+2020-12-01,(referral),Guatemala,0,0,
+2020-12-01,(referral),Hong Kong,0,0,
+2020-12-01,(referral),India,0.019,0,
+2020-12-01,(referral),Indonesia,0,0,
+2020-12-01,(referral),Iraq,0,0,
+2020-12-01,(referral),Ireland,0,0,
+2020-12-01,(referral),Italy,0,0,
+2020-12-01,(referral),Japan,0,0,
+2020-12-01,(referral),Kuwait,0,0,
+2020-12-01,(referral),Lithuania,0,0,
+2020-12-01,(referral),Macao,0,0,
+2020-12-01,(referral),Mexico,0,0,
+2020-12-01,(referral),Netherlands,0,0,
+2020-12-01,(referral),New Zealand,0,0,
+2020-12-01,(referral),Nigeria,0,0,
+2020-12-01,(referral),North Macedonia,0,0,
+2020-12-01,(referral),Pakistan,0,0,
+2020-12-01,(referral),Paraguay,0,0,
+2020-12-01,(referral),Philippines,0,0,
+2020-12-01,(referral),Poland,0.167,0,
+2020-12-01,(referral),Portugal,0,0,
+2020-12-01,(referral),Russia,0,0,
+2020-12-01,(referral),Saudi Arabia,0,0,
+2020-12-01,(referral),Serbia,0,0,
+2020-12-01,(referral),Singapore,0.111,0,
+2020-12-01,(referral),South Korea,0,0,
+2020-12-01,(referral),Spain,0,0,
+2020-12-01,(referral),Sweden,0,0,
+2020-12-01,(referral),Switzerland,0,0,
+2020-12-01,(referral),Taiwan,0.2,0,
+2020-12-01,(referral),Thailand,0,0,
+2020-12-01,(referral),Turkey,0,0,
+2020-12-01,(referral),Ukraine,0,0,
+2020-12-01,(referral),United Arab Emirates,0,0,
+2020-12-01,(referral),United Kingdom,0,0,
+2020-12-01,(referral),United States,0.042,0,
+2020-12-01,(referral),Vietnam,0,0,
+2020-12-01,<Other>,Argentina,0,0,
+2020-12-01,<Other>,Australia,0,0,
+2020-12-01,<Other>,Bangladesh,0,0,
+2020-12-01,<Other>,Brazil,0,0,
+2020-12-01,<Other>,Canada,0,0,
+2020-12-01,<Other>,China,0,0,
+2020-12-01,<Other>,Colombia,0,0,
+2020-12-01,<Other>,Germany,0,0,
+2020-12-01,<Other>,India,0,0,
+2020-12-01,<Other>,Italy,0,0,
+2020-12-01,<Other>,Japan,0,0,
+2020-12-01,<Other>,Kuwait,0,0,
+2020-12-01,<Other>,Malaysia,0,0,
+2020-12-01,<Other>,Poland,0,0,
+2020-12-01,<Other>,Portugal,0,0,
+2020-12-01,<Other>,Spain,0,0,
+2020-12-01,<Other>,Switzerland,0,0,
+2020-12-01,<Other>,Taiwan,0,0,
+2020-12-01,<Other>,Turkey,0,0,
+2020-12-01,<Other>,Ukraine,0,0,
+2020-12-01,<Other>,United Kingdom,0,0,
+2020-12-01,<Other>,United States,0,0,
+2021-01-01,(data deleted),(not set),0,,
+2021-01-01,(data deleted),Canada,0,,
+2021-01-01,(data deleted),China,0,,
+2021-01-01,(data deleted),Colombia,0,,
+2021-01-01,(data deleted),Hong Kong,0,,
+2021-01-01,(data deleted),India,0,,
+2021-01-01,(data deleted),Indonesia,0,,
+2021-01-01,(data deleted),Malaysia,0,,
+2021-01-01,(data deleted),Spain,0,,
+2021-01-01,(data deleted),United Kingdom,0,,
+2021-01-01,(data deleted),United States,0,,
+2021-01-01,(direct),Australia,0,,
+2021-01-01,(direct),Austria,0,,
+2021-01-01,(direct),Brazil,0,,
+2021-01-01,(direct),Canada,0,,
+2021-01-01,(direct),Chile,0,,
+2021-01-01,(direct),Denmark,0,,
+2021-01-01,(direct),Finland,0,,
+2021-01-01,(direct),India,0,,
+2021-01-01,(direct),Ireland,0,,
+2021-01-01,(direct),Israel,0,,
+2021-01-01,(direct),Italy,0,,
+2021-01-01,(direct),Japan,0,,
+2021-01-01,(direct),Malaysia,0,,
+2021-01-01,(direct),Netherlands,0,,
+2021-01-01,(direct),New Zealand,0,,
+2021-01-01,(direct),Poland,0,,
+2021-01-01,(direct),Puerto Rico,0,,
+2021-01-01,(direct),Romania,0,,
+2021-01-01,(direct),South Korea,0,,
+2021-01-01,(direct),Spain,0,,
+2021-01-01,(direct),Sri Lanka,0,,
+2021-01-01,(direct),Switzerland,0,,
+2021-01-01,(direct),Taiwan,0,,
+2021-01-01,(direct),Thailand,0,,
+2021-01-01,(direct),United Arab Emirates,0,,
+2021-01-01,(direct),United Kingdom,0,,
+2021-01-01,(direct),United States,0,,
+2021-01-01,(null),Australia,0,,
+2021-01-01,(null),Canada,0,,
+2021-01-01,(null),France,0,,
+2021-01-01,(null),Japan,0,,
+2021-01-01,(null),Portugal,0,,
+2021-01-01,(null),United States,0,,
+2021-01-01,(organic),(not set),0,,
+2021-01-01,(organic),Algeria,0,,
+2021-01-01,(organic),Australia,0,,
+2021-01-01,(organic),Austria,0,,
+2021-01-01,(organic),Brazil,0,,
+2021-01-01,(organic),Canada,0,,
+2021-01-01,(organic),Chile,0,,
+2021-01-01,(organic),Colombia,0,,
+2021-01-01,(organic),Costa Rica,0,,
+2021-01-01,(organic),Ecuador,0,,
+2021-01-01,(organic),France,0,,
+2021-01-01,(organic),Germany,0,,
+2021-01-01,(organic),Greece,0,,
+2021-01-01,(organic),India,0,,
+2021-01-01,(organic),Indonesia,0,,
+2021-01-01,(organic),Italy,0,,
+2021-01-01,(organic),Japan,0,,
+2021-01-01,(organic),Malaysia,0,,
+2021-01-01,(organic),Mexico,0,,
+2021-01-01,(organic),Netherlands,0,,
+2021-01-01,(organic),Pakistan,0,,
+2021-01-01,(organic),Poland,0,,
+2021-01-01,(organic),Singapore,0,,
+2021-01-01,(organic),Slovenia,0,,
+2021-01-01,(organic),South Africa,0,,
+2021-01-01,(organic),Spain,0,,
+2021-01-01,(organic),Sri Lanka,0,,
+2021-01-01,(organic),Turkey,0,,
+2021-01-01,(organic),United Arab Emirates,0,,
+2021-01-01,(organic),United Kingdom,0,,
+2021-01-01,(organic),United States,0,,
+2021-01-01,(referral),(not set),0,,
+2021-01-01,(referral),Algeria,0,,
+2021-01-01,(referral),Argentina,0,,
+2021-01-01,(referral),Armenia,0,,
+2021-01-01,(referral),Australia,0,,
+2021-01-01,(referral),Austria,0,,
+2021-01-01,(referral),Bahamas,0,,
+2021-01-01,(referral),Bangladesh,0,,
+2021-01-01,(referral),Belgium,0,,
+2021-01-01,(referral),Bolivia,0,,
+2021-01-01,(referral),Brazil,0,,
+2021-01-01,(referral),Bulgaria,0,,
+2021-01-01,(referral),Canada,0,,
+2021-01-01,(referral),Chile,0,,
+2021-01-01,(referral),China,0,,
+2021-01-01,(referral),Colombia,0,,
+2021-01-01,(referral),Croatia,0,,
+2021-01-01,(referral),Cyprus,0,,
+2021-01-01,(referral),Czechia,0,,
+2021-01-01,(referral),Denmark,0,,
+2021-01-01,(referral),Ecuador,0,,
+2021-01-01,(referral),Egypt,0,,
+2021-01-01,(referral),Finland,0,,
+2021-01-01,(referral),France,0,,
+2021-01-01,(referral),Germany,0,,
+2021-01-01,(referral),Greece,0,,
+2021-01-01,(referral),Guatemala,0,,
+2021-01-01,(referral),Hong Kong,0,,
+2021-01-01,(referral),Iceland,0,,
+2021-01-01,(referral),India,0,,
+2021-01-01,(referral),Indonesia,0,,
+2021-01-01,(referral),Iraq,0,,
+2021-01-01,(referral),Ireland,0,,
+2021-01-01,(referral),Israel,0,,
+2021-01-01,(referral),Italy,0,,
+2021-01-01,(referral),Japan,0,,
+2021-01-01,(referral),Jordan,0,,
+2021-01-01,(referral),Kosovo,0,,
+2021-01-01,(referral),Luxembourg,0,,
+2021-01-01,(referral),Malaysia,0,,
+2021-01-01,(referral),Mexico,0,,
+2021-01-01,(referral),Morocco,0,,
+2021-01-01,(referral),Netherlands,0,,
+2021-01-01,(referral),North Macedonia,0,,
+2021-01-01,(referral),Norway,0,,
+2021-01-01,(referral),Pakistan,0,,
+2021-01-01,(referral),Palestine,0,,
+2021-01-01,(referral),Panama,0,,
+2021-01-01,(referral),Peru,0,,
+2021-01-01,(referral),Philippines,0,,
+2021-01-01,(referral),Poland,0,,
+2021-01-01,(referral),Portugal,0,,
+2021-01-01,(referral),Romania,0,,
+2021-01-01,(referral),Russia,0,,
+2021-01-01,(referral),Saudi Arabia,0,,
+2021-01-01,(referral),Singapore,0,,
+2021-01-01,(referral),Slovakia,0,,
+2021-01-01,(referral),South Africa,0,,
+2021-01-01,(referral),South Korea,0,,
+2021-01-01,(referral),Spain,0,,
+2021-01-01,(referral),Sweden,0,,
+2021-01-01,(referral),Switzerland,0,,
+2021-01-01,(referral),Taiwan,0,,
+2021-01-01,(referral),Thailand,0,,
+2021-01-01,(referral),Tunisia,0,,
+2021-01-01,(referral),Turkey,0,,
+2021-01-01,(referral),Ukraine,0,,
+2021-01-01,(referral),United Arab Emirates,0,,
+2021-01-01,(referral),United Kingdom,0,,
+2021-01-01,(referral),United States,0,,
+2021-01-01,(referral),Uruguay,0,,
+2021-01-01,(referral),Venezuela,0,,
+2021-01-01,(referral),Vietnam,0,,
+2021-01-01,<Other>,(not set),0,,
+2021-01-01,<Other>,Australia,0,,
+2021-01-01,<Other>,Austria,0,,
+2021-01-01,<Other>,Canada,0,,
+2021-01-01,<Other>,China,0,,
+2021-01-01,<Other>,France,0,,
+2021-01-01,<Other>,Greece,0,,
+2021-01-01,<Other>,Hong Kong,0,,
+2021-01-01,<Other>,India,0,,
+2021-01-01,<Other>,Indonesia,0,,
+2021-01-01,<Other>,Israel,0,,
+2021-01-01,<Other>,Italy,0,,
+2021-01-01,<Other>,Malaysia,0,,
+2021-01-01,<Other>,Mexico,0,,
+2021-01-01,<Other>,Netherlands,0,,
+2021-01-01,<Other>,Peru,0,,
+2021-01-01,<Other>,Philippines,0,,
+2021-01-01,<Other>,Puerto Rico,0,,
+2021-01-01,<Other>,Spain,0,,
+2021-01-01,<Other>,Taiwan,0,,
+2021-01-01,<Other>,United Arab Emirates,0,,
+2021-01-01,<Other>,United Kingdom,0,,
+2021-01-01,<Other>,United States,0,,
+2021-01-01,<Other>,Vietnam,0,,
